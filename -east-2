@@ -1,0 +1,9 @@
+AVAILABILITYZONES	US East (Ohio) 1	us-east-2-zg-1	us-east-2	opt-in-not-required	us-east-2	available	use2-az1	us-east-2a	availability-zone
+GEOGRAPHY	United States of America
+SUBGEOGRAPHY	Ohio
+AVAILABILITYZONES	US East (Ohio) 1	us-east-2-zg-1	us-east-2	opt-in-not-required	us-east-2	available	use2-az2	us-east-2b	availability-zone
+GEOGRAPHY	United States of America
+SUBGEOGRAPHY	Ohio
+AVAILABILITYZONES	US East (Ohio) 1	us-east-2-zg-1	us-east-2	opt-in-not-required	us-east-2	available	use2-az3	us-east-2c	availability-zone
+GEOGRAPHY	United States of America
+SUBGEOGRAPHY	Ohio

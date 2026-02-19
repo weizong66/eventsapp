@@ -1,0 +1,24 @@
+9«‚_¾Ž¨ª°pLLk ‡Z–ØG[Ê)‡Ø‰¤w¶/HTTP/2.0 200 OK
+Content-Length: 379
+Audit-Id: c8dbe7cd-f52c-4b47-83f2-9f27891370ac
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Thu, 19 Feb 2026 18:35:29 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 146c6429-8c6e-4ea0-b55d-fab67d874d31
+X-Kubernetes-Pf-Prioritylevel-Uid: 814b48f6-3737-4ced-b50a-f9a5a53bb364
+
+{
+  "major": "1",
+  "minor": "34",
+  "emulationMajor": "1",
+  "emulationMinor": "34",
+  "minCompatibilityMajor": "1",
+  "minCompatibilityMinor": "33",
+  "gitVersion": "v1.34.0",
+  "gitCommit": "f28b4c9efbca5c5c0af716d9f2d5702667ee8a45",
+  "gitTreeState": "clean",
+  "buildDate": "2025-08-27T10:09:04Z",
+  "goVersion": "go1.24.6",
+  "compiler": "gc",
+  "platform": "linux/amd64"
+}

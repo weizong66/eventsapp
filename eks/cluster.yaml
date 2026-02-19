@@ -2,7 +2,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: userX-cluster        # TODO - modify userX to be your user number
+  name: user11-cluster        # TODO - modify userX to be your user number
   region: us-east-2
   version: "1.33" 
 
